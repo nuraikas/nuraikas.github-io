@@ -5,7 +5,6 @@ body {
  
 .container {
     margin: 0 auto;
-    max-width: 1200px;
     width: 100%;
     max-width: 400px;
     background: white;
@@ -18,14 +17,14 @@ body {
 }
 
 input {
-    width: 85%;
+    width: 80%;
     padding: 10px;
     border-radius: 10px;
     font-family: Montserrat;
 }
 
 button {
-    padding: 10px;
+    padding: 10px 13px;
     border-radius: 10px;
 }
 
