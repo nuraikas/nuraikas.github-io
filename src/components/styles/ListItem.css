@@ -1,0 +1,26 @@
+.list_item {
+    line-height: 40px;
+    background-color: thistle;
+    margin-bottom: 8px;
+    border-radius: 3px;
+    padding: 0 15px;
+
+    display: flex;
+    align-items: flex-start;
+}
+
+.list_item title {
+    display: inline;
+    flex: 1 1 85%;
+    text-align: start;
+}
+
+.list_item button {
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.active {
+    text-decoration: line-through;
+}

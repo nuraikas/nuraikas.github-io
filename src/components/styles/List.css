@@ -1,0 +1,8 @@
+.list {
+    background-color: white;
+    padding: 14px;
+    max-width: 400px;
+    margin: 0 auto;
+    max-height: 225px;
+    overflow-y: auto;
+}
